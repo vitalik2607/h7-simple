@@ -1,0 +1,123 @@
+.title{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+text-transform: uppercase;
+color: #898F99;
+margin: 107px 596px 55px 595px;
+}
+.subtitle{
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 59px;
+text-align: center;
+text-transform: uppercase;
+color: #0EC8CB;
+margin: 55px 407px 55px 406px;
+}
+.paragraphe{
+font-family: 'PT Sans',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+text-transform: uppercase;
+color: #000000;
+margin: 55px 330px 99px 330px;
+}
+.wrapper{
+background: #F7F7F7;
+border: 1px solid #ECECEC;
+box-sizing: border-box;
+height: 392px;
+}
+.title2{
+font-family: 'Montserrat',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 26px;
+text-align: center;
+text-transform: uppercase;
+color: #1B1B1B;
+margin: 43px 11px 23px 10px ;
+}
+.paragraphe2{
+font-family: 'PT Sans',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #777777;
+}
+.wrapper1{
+background: #F7F7F7;
+border: 1px solid #ECECEC;
+box-sizing: border-box; 
+height: 392px;
+
+}
+.wrapper2{
+background: #F7F7F7;
+border: 1px solid #ECECEC;
+box-sizing: border-box;
+height: 392px;
+}
+.wrapper3{
+background: #F7F7F7;
+border: 1px solid #ECECEC;
+box-sizing: border-box;
+height: 392px;
+}
+.photo{
+  margin: 49px 78px 43px 104px;
+}
+.title3{
+margin: 22px 11px 23px 10px;
+font-family: 'Montserrat',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 26px;
+text-align: center;
+text-transform: uppercase;
+color: #1B1B1B;
+}
+.paragraphe3{
+font-family: 'PT Sans',sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #777777;
+margin:23px 37px 49px 36px ;
+}   
+.wrapper:hover{
+    background: #0EC8CB;
+}
+.wrapper1:hover{
+    background: #0EC8CB;
+}
+.wrapper2:hover{
+    background: #0EC8CB;
+}
+.wrapper3:hover{
+    background: #0EC8CB;
+}
+.wrapper0:hover .title0{
+    color: white;
+}
+.wrapper0:hover .paragraphe0{
+    color: white;
+}
+.wrapper0:hover .photo{
+   fill: white;
+}
